@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(4, 2, 33);
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.a{
+    font-size: 25px;
+    font-family:'Courier New', Courier, monospace;
+    font-family: monospace;
+}
+.style{
+    color: rgb(226, 0, 207);
+}
+.label {
+    color: rgb(0, 221, 255);
+}
+.input{
+    color: rgb(0, 255, 26);
+}
+.i{
+    color: rgb(140, 0, 255);
+}
+.strong{
+    color: rgb(234, 255, 0);
+}
+.br{
+    color: rgb(255, 140, 0);
+}
+.img{
+    color: rgb(200, 0, 255);
+}
+.audio{
+    color: rgb(0, 13, 255);
+}
+.canvas{
+    color: rgb(255, 255, 255);
+}
+.datalist{
+    color: rgb(0, 255, 132);
+}
+.div2{
+    font-size: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color:white;
+    font-family:'Courier New', Courier, monospace ;
+}
+span{
+    font-size: 20px;
+}
