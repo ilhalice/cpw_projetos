@@ -4,48 +4,75 @@ body {
     padding-left: 100px;
     padding-right: 100px;
 }
-.a{
-    font-size: 25px;
-    font-family:'Courier New', Courier, monospace;
+
+.a {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
     font-family: monospace;
 }
-.style{
+
+.style {
     color: rgb(226, 0, 207);
 }
+
 .label {
     color: rgb(0, 221, 255);
 }
-.input{
+
+.input {
     color: rgb(0, 255, 26);
 }
-.i{
+
+.i {
     color: rgb(140, 0, 255);
 }
-.strong{
+
+.strong {
     color: rgb(234, 255, 0);
 }
-.br{
+
+.br {
     color: rgb(255, 140, 0);
 }
-.img{
+
+.img {
     color: rgb(200, 0, 255);
 }
-.audio{
+
+.audio {
     color: rgb(0, 13, 255);
 }
-.canvas{
+
+.canvas {
     color: rgb(255, 255, 255);
 }
-.datalist{
+
+.datalist {
     color: rgb(0, 255, 132);
 }
-.div2{
-    font-size: 20px;
+
+.div2 {
+    font-size: 15px;
     padding-bottom: 15px;
     padding-top: 15px;
-    color:white;
-    font-family:'Courier New', Courier, monospace ;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
 }
-span{
-    font-size: 20px;
+
+span {
+    font-size: 15px;
+}
+
+.post-content > * {
+    margin: 0px 0px 1.2rem;
+}
+
+pre {
+    font-size: 15px;
+    padding: 1rem;
+    border-left: 3px solid rgb(45, 2, 123);
+    background-color: rgb(4, 2, 33);
+    font-family: monospace;
+    color: #fff;
+    overflow-x: auto;
 }
