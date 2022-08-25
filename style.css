@@ -1,8 +1,9 @@
 body {
     background-color: rgb(4, 2, 33);
     padding-top: 50px;
-    padding-left: 100px;
     padding-right: 100px;
+    padding-left: 100px;
+
 }
 
 .a {
@@ -63,16 +64,26 @@ span {
     font-size: 15px;
 }
 
-.post-content > * {
+.post-content>* {
     margin: 0px 0px 1.2rem;
 }
 
 pre {
     font-size: 15px;
     padding: 1rem;
-    border-left: 3px solid rgb(45, 2, 123);
-    background-color: rgb(4, 2, 33);
+    border-left: 3px solid rgb(85, 0, 255);
+    background-color: rgb(4, 0, 61);
     font-family: monospace;
-    color: #fff;
+    color: white;
     overflow-x: auto;
+}
+
+.footer {
+    text-align: center;
+    color: rgb(54, 248, 255);
+    font-size: 16px;
+    font-family:'Courier New', Courier, monospace;
+}
+.aa{
+    color:darkorchid;
 }
