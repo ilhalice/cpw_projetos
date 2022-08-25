@@ -80,10 +80,11 @@ pre {
 
 .footer {
     text-align: center;
-    color: rgb(54, 248, 255);
+    color: rgb(238, 238, 238);
     font-size: 16px;
     font-family:'Courier New', Courier, monospace;
 }
 .aa{
-    color:darkorchid;
+    color:rgb(168, 37, 233);
+    text-decoration: none;
 }
